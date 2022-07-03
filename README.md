@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karan51193
 
-- 👀 I am Mechanical Engineer with core experience in Aerospace Design sector.
+- 👀 I am a Mechanical Engineer with domain experience in Aerospace Component Design sector.
 - 👀I’m interested in Data Science and AI/ML, it's application in Engineering.
 - 🌱 I’m currently learning Python, SQL and applying them in various problems of Data Science and AI/ML
 - 💞️ I’m looking to collaborate on Data Science and AI/ML, especially if there is a project related to Engineering.
